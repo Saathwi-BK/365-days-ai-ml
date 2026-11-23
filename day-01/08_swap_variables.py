@@ -1,3 +1,4 @@
+#Swap two variables without using a third one
 a = int(input("Enter a: "))
 b = int(input("Enter b: "))
 

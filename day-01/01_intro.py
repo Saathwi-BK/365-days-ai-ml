@@ -1,3 +1,4 @@
+# Print your name, college, and goal in one line
 user_name = input("Enter your name: ").strip().title()
 college_name = input("Enter your college name: ").strip().title()
 user_goal = input("Enter your goal: ").strip()

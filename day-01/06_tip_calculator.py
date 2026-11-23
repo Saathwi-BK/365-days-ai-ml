@@ -1,3 +1,4 @@
+#Take a total bill and a tip percentage, then print the final amount
 price1=float(input("Enter the price of product one: "))
 price2=float(input("Enter the price of product two: "))
 

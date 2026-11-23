@@ -1,3 +1,4 @@
+#Take a name and age, then print "Hi X, you will be 30 in Y years"
 user_name = input("Enter your name: ").strip().title()
 age = int(input("Enter your age: "))
 
